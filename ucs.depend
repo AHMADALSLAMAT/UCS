@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652653765 source:d:\ucs\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+
